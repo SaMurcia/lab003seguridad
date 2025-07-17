@@ -1,7 +1,2 @@
 Esta es la primera linea del archivo 3
 Esta es la primera linea como desarrollador
-<<<<<<< HEAD
-
-=======
-tercera linea
->>>>>>> developer_branch
